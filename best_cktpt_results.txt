@@ -1,0 +1,54 @@
+
+================================================================================
+Summary of Best Checkpoints Across Folds:
+================================================================================
+Fold 1:
+  Accuracy:       55.17%
+  Best Epoch:     22
+  Val Loss:       1.190996498897158
+  Sensitivity:    N/A
+  Specificity:    N/A
+  Balanced Acc:   N/A
+  Checkpoint:     /home/hpc12/Lubaina/FocusMAE/Dataset_folder/work_dir/finetune_output/checkpoint_folder/spec-sens/buv_fold_1/checkpoint-22.pth
+------------------------------------------------------------
+Fold 2:
+  Accuracy:       82.76%
+  Best Epoch:     17
+  Val Loss:       0.5868444771602236
+  Sensitivity:    N/A
+  Specificity:    N/A
+  Balanced Acc:   N/A
+  Checkpoint:     /home/hpc12/Lubaina/FocusMAE/Dataset_folder/work_dir/finetune_output/checkpoint_folder/spec-sens/buv_fold_2/checkpoint-17.pth
+------------------------------------------------------------
+Fold 3:
+  Accuracy:       58.62%
+  Best Epoch:     1
+  Val Loss:       1.2331853406182651
+  Sensitivity:    N/A
+  Specificity:    N/A
+  Balanced Acc:   N/A
+  Checkpoint:     /home/hpc12/Lubaina/FocusMAE/Dataset_folder/work_dir/finetune_output/checkpoint_folder/spec-sens/buv_fold_3/checkpoint-1.pth
+------------------------------------------------------------
+Fold 4:
+  Accuracy:       79.31%
+  Best Epoch:     14
+  Val Loss:       0.6776541348161369
+  Sensitivity:    N/A
+  Specificity:    N/A
+  Balanced Acc:   N/A
+  Checkpoint:     /home/hpc12/Lubaina/FocusMAE/Dataset_folder/work_dir/finetune_output/checkpoint_folder/spec-sens/buv_fold_4/checkpoint-14.pth
+------------------------------------------------------------
+Fold 5:
+  Accuracy:       79.31%
+  Best Epoch:     2
+  Val Loss:       0.6332097546807651
+  Sensitivity:    N/A
+  Specificity:    N/A
+  Balanced Acc:   N/A
+  Checkpoint:     /home/hpc12/Lubaina/FocusMAE/Dataset_folder/work_dir/finetune_output/checkpoint_folder/spec-sens/buv_fold_5/checkpoint-2.pth
+------------------------------------------------------------
+
+Best fold: Fold 2 with accuracy 82.76%
+Best checkpoint: /home/hpc12/Lubaina/FocusMAE/Dataset_folder/work_dir/finetune_output/checkpoint_folder/spec-sens/buv_fold_2/checkpoint-17.pth
+
+================================================================================
