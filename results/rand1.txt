@@ -1,0 +1,51 @@
+# Log file created
+Confusion Matrix :
+[[ 7  7]
+ [ 1 22]]
+Accuracy : 0.7837837837837838
+Sensitivity: 0.9565217391304348
+specificity : 0.5
+MSE LOSS VID Classification 0.2
+Accuracy
+Accuracy of the network on the 37 test videos: Top-1: 0.78%, Top-5: 1.00%
+{"confusion_matrix": [[7, 7], [1, 22]], "accuracy": 0.7837837837837838, "sensitivity": 0.9565217391304348, "specificity": 0.5, "mse_loss": 0.21621621621621623, "final_top1": 0.7837837837837838, "final_top5": 1.0}
+Confusion Matrix :
+[[ 6  8]
+ [ 3 20]]
+Accuracy : 0.7027027027027027
+Sensitivity: 0.8695652173913043
+specificity : 0.42857142857142855
+MSE LOSS VID Classification 0.3
+Accuracy
+Accuracy of the network on the 37 test videos: Top-1: 0.70%, Top-5: 1.00%
+{"confusion_matrix": [[6, 8], [3, 20]], "accuracy": 0.7027027027027027, "sensitivity": 0.8695652173913043, "specificity": 0.42857142857142855, "mse_loss": 0.2972972972972973, "final_top1": 0.7027027027027027, "final_top5": 1.0}
+Confusion Matrix :
+[[ 7  7]
+ [ 4 19]]
+Accuracy : 0.7027027027027027
+Sensitivity: 0.8260869565217391
+specificity : 0.5
+MSE LOSS VID Classification 0.3
+Accuracy
+Accuracy of the network on the 37 test videos: Top-1: 0.68%, Top-5: 1.00%
+{"confusion_matrix": [[7, 7], [4, 19]], "accuracy": 0.7027027027027027, "sensitivity": 0.8260869565217391, "specificity": 0.5, "mse_loss": 0.2972972972972973, "final_top1": 0.6756756756756757, "final_top5": 1.0}
+Confusion Matrix :
+[[ 7  7]
+ [ 4 19]]
+Accuracy : 0.7027027027027027
+Sensitivity: 0.8260869565217391
+specificity : 0.5
+MSE LOSS VID Classification 0.3
+Accuracy
+Accuracy of the network on the 37 test videos: Top-1: 0.68%, Top-5: 1.00%
+{"confusion_matrix": [[7, 7], [4, 19]], "accuracy": 0.7027027027027027, "sensitivity": 0.8260869565217391, "specificity": 0.5, "mse_loss": 0.2972972972972973, "final_top1": 0.6756756756756757, "final_top5": 1.0}
+Confusion Matrix :
+[[ 7  7]
+ [ 4 19]]
+Accuracy : 0.7027027027027027
+Sensitivity: 0.8260869565217391
+specificity : 0.5
+MSE LOSS VID Classification 0.3
+Accuracy
+Accuracy of the network on the 37 test videos: Top-1: 0.70%, Top-5: 1.00%
+{"confusion_matrix": [[7, 7], [4, 19]], "accuracy": 0.7027027027027027, "sensitivity": 0.8260869565217391, "specificity": 0.5, "mse_loss": 0.2972972972972973, "final_top1": 0.7027027027027027, "final_top5": 1.0}
